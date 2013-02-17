@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+*.sql
+*.db
+*~
+local_settings.py
+celerybeat-schedule

@@ -1,0 +1,10 @@
+[user]
+	name = lexual
+	email = lex@jbadigital.com
+[color]
+    ui = true
+[alias]
+    wdiff = diff --color-words
+[core]
+	editor = vim
+    excludesfile = ~/.gitignore_global
