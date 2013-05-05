@@ -1,4 +1,5 @@
 [dotfiles]
+packages = ['config']
 ignore = [
     '.git',
     '.gitmodules',
@@ -6,4 +7,3 @@ ignore = [
     '.swp',
     'README.md',
     ]
-
